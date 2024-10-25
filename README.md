@@ -44,3 +44,18 @@ To use the script, clone the repository and navigate to the project directory:
 ```bash
 git clone https://github.com/Zylk-dev/shodan-query-puller.git
 cd shodan-query-puller
+
+## Example Commands
+
+Here are some example commands to use the `pull_shodan_queries.sh` script:
+
+1. `./pull_shodan_queries.sh "security"`
+2. `./pull_shodan_queries.sh "network"`
+3. `./pull_shodan_queries.sh "vulnerability"`
+4. `./pull_shodan_queries.sh "penetration testing"`
+5. `./pull_shodan_queries.sh "threat intelligence"`
+6. `./pull_shodan_queries.sh "IoT"`
+7. `./pull_shodan_queries.sh "malware"`
+8. `./pull_shodan_queries.sh "hacking"`
+9. `./pull_shodan_queries.sh "cybersecurity"`
+10. `./pull_shodan_queries.sh "exploit development"`
